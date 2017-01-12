@@ -1,5 +1,3 @@
-package evolv.io;
-
 import processing.core.*;
 import processing.event.*;
 
@@ -49,7 +47,7 @@ public class EvolvioColor extends PApplet {
 	final String INITIAL_FILE_NAME = "PIC";
 
 	public static void main(String[] passedArgs) {
-		String[] appletArgs = new String[] { "evolv.io.EvolvioColor" };
+		String[] appletArgs = new String[] { "EvolvioColor" };
 		if (passedArgs != null) {
 			PApplet.main(concat(appletArgs, passedArgs));
 		} else {

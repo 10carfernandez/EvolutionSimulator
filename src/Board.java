@@ -1,5 +1,3 @@
-package evolv.io;
-
 import java.util.ArrayList;
 
 import processing.core.PFont;

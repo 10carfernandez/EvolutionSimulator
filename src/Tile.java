@@ -1,5 +1,3 @@
-package evolv.io;
-
 class Tile {
 	/**
 	 * 

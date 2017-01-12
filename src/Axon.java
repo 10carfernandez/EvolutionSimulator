@@ -1,5 +1,3 @@
-package evolv.io;
-
 class Axon {
 	final double MUTABILITY_MUTABILITY = 0.7f;
 	final int mutatePower = 9;
